@@ -1,4 +1,4 @@
-# typecasting
+# typecasting & inputs
 
 # python days/2.py
 # python3 days/2.py
